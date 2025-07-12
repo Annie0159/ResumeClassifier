@@ -23,7 +23,7 @@ A simple machine learning project that classifies resumes into job categories su
 
 ```bash
 git clone https://github.com/Annie0159/ResumeClassifier.git
-cd resume-classifier
+cd ResumeClassifier
 ```
 
 ### 2. Install Dependencies
